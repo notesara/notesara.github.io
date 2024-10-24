@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://notesara.github.io/sitemap/sitemap_index.notesara
+Sitemap: https://notesara.github.io/obP/sitemap_index.notesara
+Sitemap: https://notesara.github.io/fEt/sitemap_index.notesara
+Sitemap: https://notesara.github.io/uYS/sitemap_index.notesara
+Sitemap: https://notesara.github.io/RgP/sitemap_index.notesara
+Sitemap: https://notesara.github.io/Xbu/sitemap_index.notesara
+Sitemap: https://notesara.github.io/Hsr/sitemap_index.notesara
+Sitemap: https://notesara.github.io/GOV/sitemap_index.notesara
+Sitemap: https://notesara.github.io/qDb/sitemap_index.notesara
+Sitemap: https://notesara.github.io/lLH/sitemap_index.notesara
+Sitemap: https://notesara.github.io/HcL/sitemap_index.notesara
+Sitemap: https://notesara.github.io/wpn/sitemap_index.notesara
+Sitemap: https://notesara.github.io/fUb/sitemap_index.notesara
+Sitemap: https://notesara.github.io/uaj/sitemap_index.notesara
+Sitemap: https://notesara.github.io/ULs/sitemap_index.notesara
+Sitemap: https://notesara.github.io/bog/sitemap_index.notesara
+Sitemap: https://notesara.github.io/oIO/sitemap_index.notesara
+Sitemap: https://notesara.github.io/hJH/sitemap_index.notesara
+Sitemap: https://notesara.github.io/ecu/sitemap_index.notesara
+Sitemap: https://notesara.github.io/dRs/sitemap_index.notesara
+Sitemap: https://notesara.github.io/JVS/sitemap_index.notesara
